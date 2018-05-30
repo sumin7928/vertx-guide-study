@@ -1,6 +1,6 @@
 # vertx-guide-study
 
-test ac
+test async
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk1NTUyNzI5LDE3MDY2MDQyMzldfQ==
+eyJoaXN0b3J5IjpbLTM2Mjk0NDk2MywxNzA2NjA0MjM5XX0=
 -->
