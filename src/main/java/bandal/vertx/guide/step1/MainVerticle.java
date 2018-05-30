@@ -1,4 +1,4 @@
-package bandal.vertx.guide;
+package bandal.vertx.guide.step1;
 
 import com.github.rjeschke.txtmark.Processor;
 import io.vertx.core.AbstractVerticle;
